@@ -76,8 +76,8 @@
     "pedido": [
         {
           "id": "1",
-          "representanteId": "1",
           "empresaId": "1",
+          "representanteId": "1",
           "createdAt": "2021-03-19T12:26:49.055Z",
           "condPagamentoId": 68,
           "tipoPedido": "invoice",
@@ -122,26 +122,25 @@
       "Cliente": [
         {
           "id": "1",
+          "empresaId": "1" 
           "createdAt": "2021-03-19T10:15:24.311Z",
           "name": "Miss Casimer Nitzsche",
           "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/charliegann/128.jpg",
-          "representanteId": "2",
-          "empresaId": "1"
         },
         {
           "id": "2",
+          "empresaId": "1"
           "createdAt": "2021-03-19T06:04:43.935Z",
           "name": "Dr. Nico Rau",
           "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jimmuirhead/128.jpg",
-          "representanteId": "2",
-          "empresaId": "1"
         },
         {
           "id": "3",
+          "empresaId": "1"
           "createdAt": "2021-03-19T04:32:43.924Z",
           "name": "Mrs. Christophe Renner",
           "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/funwatercat/128.jpg",
-          "empresaId": "1"
+          
         },
         {
           "id": "4",
