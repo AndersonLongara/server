@@ -76,8 +76,8 @@
     "pedido": [
         {
           "id": "1",
-          "empresaId": "1",
           "representanteId": "1",
+          "empresaId": "1",
           "createdAt": "2021-03-19T12:26:49.055Z",
           "condPagamentoId": 68,
           "tipoPedido": "invoice",
@@ -143,17 +143,17 @@
         },
         {
           "id": "4",
+          "empresaId": "1",
           "createdAt": "2021-03-19T21:09:40.428Z",
           "name": "Cordia Mayer",
-          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/maximsorokin/128.jpg",
-          "empresaId": "1"
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/maximsorokin/128.jpg"
         },
         {
           "id": "5",
+          "empresaId": "1",
           "createdAt": "2021-03-19T09:49:33.568Z",
           "name": "Hilda Orn",
-          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/danthms/128.jpg",
-          "empresaId": "1"
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/danthms/128.jpg"
         }
     ]
 }
