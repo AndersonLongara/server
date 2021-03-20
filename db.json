@@ -119,7 +119,7 @@
           "flativo": false
         }
       ],
-      "Cliente": [
+      "cliente": [
         {
           "id": "1",
           "empresaId": "1" 
