@@ -5,22 +5,50 @@
   "representantes": [
     { "id": 1, "name": "Miss Jasmin Jakubowski", "usuario": "Lauryn", "password": "lmo2CAyA7dszaBm", "empresaId": 1 }
   ],
-  "pedidos": [ 
-        { 
-            "id": 1,
-            "tipoPedido": "invoice",
-            "status": "status 1",
-            "vlTotalPedido": "277.00",
-            "representanteId": 1,
-            "empresaId": 1,
-            "clienteId": 1
-        }
-    ],
+ "pedidos": [ 
+    { 
+        "id": 1,
+        "tipoPedido": "invoice",
+        "status": "status 1",
+        "vlTotalPedido": "277.00",
+        "representanteId": 1,
+        "empresaId": 1,
+        "clienteId": 1
+    },
+    { 
+        "id": 2,
+        "tipoPedido": "invoice",
+        "status": "status 1",
+        "vlTotalPedido": "500.00",
+        "representanteId": 1,
+        "empresaId": 1,
+        "clienteId": 1
+    },
+    { 
+        "id": 3,
+        "tipoPedido": "invoice",
+        "status": "status 1",
+        "vlTotalPedido": "1500.00",
+        "representanteId": 1,
+        "empresaId": 1,
+        "clienteId": 1
+    }
+],
     "clientes": [
         {
             "id": 1,
             "name": "Miss Casimer Nitzsche",
             "empresaId": 1
-        }
+        },
+        {
+              "id": 2,
+              "name": "Grupo Bom Gosto",
+              "empresaId": 1
+         },
+          {
+              "id": 3,
+              "name": "Fiat Lux",
+              "empresaId": 1
+          }
     ]
 }
