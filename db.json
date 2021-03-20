@@ -12,7 +12,8 @@
             "status": "status 1",
             "vlTotalPedido": "277.00",
             "representanteId": 1,
-            "empresaId": 1
+            "empresaId": 1,
+            "clienteId": 1
         }
     ],
     "clientes": [
