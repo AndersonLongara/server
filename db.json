@@ -73,6 +73,43 @@
           "flAtivo": false
         }
     ],
+     "clientes": [
+        {
+          "id": "1",
+          "empresaId": "1",
+          "createdAt": "2021-03-19T10:15:24.311Z",
+          "name": "Miss Casimer Nitzsche",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/charliegann/128.jpg"
+        },
+        {
+          "id": "2",
+          "empresaId": "1",
+          "createdAt": "2021-03-19T06:04:43.935Z",
+          "name": "Dr. Nico Rau",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jimmuirhead/128.jpg"
+        },
+        {
+          "id": "3",
+          "empresaId": "1",
+          "createdAt": "2021-03-19T04:32:43.924Z",
+          "name": "Mrs. Christophe Renner",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/funwatercat/128.jpg"
+        },
+        {
+          "id": "4",
+          "empresaId": "1",
+          "createdAt": "2021-03-19T21:09:40.428Z",
+          "name": "Cordia Mayer",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/maximsorokin/128.jpg"
+        },
+        {
+          "id": "5",
+          "empresaId": "1",
+          "createdAt": "2021-03-19T09:49:33.568Z",
+          "name": "Hilda Orn",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/danthms/128.jpg"
+        }
+    ],
     "pedidos": [
         {
           "id": "1",
@@ -119,42 +156,5 @@
           "vlTotalPedido": "375.00",
           "flativo": false
         }
-      ],
-      "clientes": [
-        {
-          "id": "1",
-          "empresaId": "1",
-          "createdAt": "2021-03-19T10:15:24.311Z",
-          "name": "Miss Casimer Nitzsche",
-          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/charliegann/128.jpg"
-        },
-        {
-          "id": "2",
-          "empresaId": "1",
-          "createdAt": "2021-03-19T06:04:43.935Z",
-          "name": "Dr. Nico Rau",
-          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jimmuirhead/128.jpg"
-        },
-        {
-          "id": "3",
-          "empresaId": "1",
-          "createdAt": "2021-03-19T04:32:43.924Z",
-          "name": "Mrs. Christophe Renner",
-          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/funwatercat/128.jpg"
-        },
-        {
-          "id": "4",
-          "empresaId": "1",
-          "createdAt": "2021-03-19T21:09:40.428Z",
-          "name": "Cordia Mayer",
-          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/maximsorokin/128.jpg"
-        },
-        {
-          "id": "5",
-          "empresaId": "1",
-          "createdAt": "2021-03-19T09:49:33.568Z",
-          "name": "Hilda Orn",
-          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/danthms/128.jpg"
-        }
-    ]
+      ]
 }
