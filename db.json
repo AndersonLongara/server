@@ -33,8 +33,8 @@
     ],
     "representante": [
         {
-          "id": "1",
-          "empresaId": "1",
+          "id": 1,
+          "empresaId": 1,
           "createdAt": "2021-03-19T21:51:34.718Z",
           "name": "Miss Jasmin Jakubowski",
           "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/devinhalladay/128.jpg",
@@ -43,8 +43,8 @@
           "flAtivo": false
         },
         {
-          "id": "2",
-          "empresaId": "1",
+          "id": 2,
+          "empresaId": 1,
           "createdAt": "2021-03-19T03:55:50.399Z",
           "name": "Ms. Rosamond Robel",
           "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/carlosgavina/128.jpg",
@@ -126,7 +126,7 @@
           "name": "Miss Casimer Nitzsche",
           "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/charliegann/128.jpg",
           "representanteId": "2",
-          "empresaId": 1
+          "empresaId": "1"
         },
         {
           "id": "2",
@@ -134,28 +134,28 @@
           "name": "Dr. Nico Rau",
           "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jimmuirhead/128.jpg",
           "representanteId": "2",
-          "empresaId": 1
+          "empresaId": "1"
         },
         {
           "id": "3",
           "createdAt": "2021-03-19T04:32:43.924Z",
           "name": "Mrs. Christophe Renner",
           "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/funwatercat/128.jpg",
-          "empresaId": 1
+          "empresaId": "1"
         },
         {
           "id": "4",
           "createdAt": "2021-03-19T21:09:40.428Z",
           "name": "Cordia Mayer",
           "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/maximsorokin/128.jpg",
-          "empresaId": 1
+          "empresaId": "1"
         },
         {
           "id": "5",
           "createdAt": "2021-03-19T09:49:33.568Z",
           "name": "Hilda Orn",
           "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/danthms/128.jpg",
-          "empresaId": 1
+          "empresaId": "1"
         }
     ]
 }
