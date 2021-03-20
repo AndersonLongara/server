@@ -1,5 +1,5 @@
 {
-    "empresa": [
+    "empresas": [
         {
             "id": "1",
             "createdAt": "2021-03-19T13:45:08.563Z",
@@ -31,7 +31,7 @@
             "flAtivo": false
         }
     ],
-    "representante": [
+    "representantes": [
         {
           "id": 1,
           "empresaId": 1,
@@ -73,11 +73,12 @@
           "flAtivo": false
         }
     ],
-    "pedido": [
+    "pedidos": [
         {
-          "id": "1",
-          "representanteId": "1",
-          "empresaId": "1",
+          "id": 1,
+          "representanteId": 1,
+          "empresaId": 1,
+          "clienteId: 1,
           "createdAt": "2021-03-19T12:26:49.055Z",
           "condPagamentoId": 68,
           "tipoPedido": "invoice",
@@ -119,10 +120,10 @@
           "flativo": false
         }
       ],
-      "cliente": [
+      "clientes": [
         {
-          "id": "1",
-          "empresaId": "1",
+          "id": 1,
+          "empresaId": 1,
           "createdAt": "2021-03-19T10:15:24.311Z",
           "name": "Miss Casimer Nitzsche",
           "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/charliegann/128.jpg"
