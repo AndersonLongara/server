@@ -74,14 +74,13 @@
               "desconto": 10,
               "produtoId": 1,
               "pedidoId": 1
-
           },
           {
               "id": 2,
               "quantidade": 5,
               "desconto": 5,
               "produtoId": 2,
-              "pedidoId": 1,
+              "pedidoId": 1
           }
       ]
 }
