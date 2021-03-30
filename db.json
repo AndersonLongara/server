@@ -56,14 +56,14 @@
             "id": 1,
             "name": "Coca cola 2L",
             "estoque": 10,
-            "valor": 10.00,
+            "valor": "10.00",
             "unidade": "Fardo"
         },
         {
             "id": 2,
             "name": "Pepsi cola 2L",
             "estoque": 5,
-            "valor": 3.00,
+            "valor": "3.00",
             "unidade": "uni"
         }
     ]
