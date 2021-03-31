@@ -1,7 +1,4 @@
 {
-  "empresas": [
-    { "id": 1, "name": "Rempel - Kuvalis" }, { "id": 2, "name": "Probel - Tauros" }
-  ],
   "representantes": [
     { "id": 1, "name": "Miss Jasmin Jakubowski", "usuario": "Lauryn", "password": "lmo2CAyA7dszaBm", "empresaId": 1 }
   ],
