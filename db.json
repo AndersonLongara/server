@@ -48,7 +48,7 @@
               "empresaId": 1
           }
     ],
-    "Produtos": [
+    "produtos": [
         {
             "id": 1,
             "name": "Coca cola 2L",
@@ -64,7 +64,7 @@
             "unidade": "uni"
         }
     ],
-    "ItensPedidos": [
+    "itensPedidos": [
         {
             "id": 1,
             "pedidoId": 1,
